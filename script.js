@@ -1,4 +1,4 @@
-const player = document.querySelector('.player');
+const player = document.querySelector('.player_video');
 const video = player.querySelector('.viewer');
 const progress = player.querySelector('.progress');
 const progressBar = player.querySelector('.progress__filled');
